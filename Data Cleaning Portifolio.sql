@@ -1,4 +1,3 @@
-
 /*
 
 Cleaning Data in SQL using Queries
